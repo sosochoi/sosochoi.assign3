@@ -1,4 +1,4 @@
-# Add data to your .gitignore file your data - this will be kept off of github
+# Add open source data to your .gitignore file your data - this will be kept off of github
 product_info.csv
 
 # Byte-compiled / optimized / DLL files
