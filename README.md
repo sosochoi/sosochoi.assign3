@@ -9,4 +9,5 @@ This repository contains the Sephora Skincare Reviews dataset, which includes cu
 
 ## Data Source
 
-The data is sourced from Kaggle, where it was made available by the user [melissamonfared](https://www.kaggle.com/datasets/melissamonfared/sephora-skincare-reviews). 
+The data is sourced from Kaggle, where it was made available by the user [melissamonfared]
+Link: (https://www.kaggle.com/datasets/melissamonfared/sephora-skincare-reviews). 
